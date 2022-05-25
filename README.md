@@ -1,5 +1,5 @@
 # ImageRetargeting-SeamCarving-ImageProcessing-Project-UTCN
-Image Retargeting Project using Seam Carving method made for the Image Processing class at TUCN
+Image Retargeting Project using Seam Carving method made for the Image Processing class at TUCN made in C++ using OpenCV.
 
 Examples of shrinking:
 
@@ -12,4 +12,4 @@ Shrinked Image:
 ![2_result_0_300](https://user-images.githubusercontent.com/56412966/170264603-cd6c8e89-7270-4db9-a63d-e9717b45c3da.jpg)
 
 
-More information can be found in the [documentation](https://github.com/Andrei27C/ImageRetargeting-SeamCarving-ImageProcessing-Project-UTCN/blob/main/Image-Retargeting_IP_Project-Documentation_Csatlos-KonczAndrei.docx) or in the [Image Retargeting Article](https://github.com/Andrei27C/ImageRetargeting-SeamCarving-ImageProcessing-Project-UTCN/blob/main/seamcarving.pdf) 
+More information can be found in the [documentation](https://github.com/Andrei27C/ImageRetargeting-SeamCarving-ImageProcessing-Project-UTCN/blob/main/Image-Retargeting_IP_Project-Documentation_Csatlos-KonczAndrei.docx) or in the [Image Retargeting Article](https://github.com/Andrei27C/ImageRetargeting-SeamCarving-ImageProcessing-Project-UTCN/blob/main/seamcarving.pdf).
